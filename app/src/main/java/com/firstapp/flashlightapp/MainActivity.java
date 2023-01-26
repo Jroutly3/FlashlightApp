@@ -12,6 +12,8 @@ import android.widget.ToggleButton;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+// import com.android.application.R;
+
 public class MainActivity extends AppCompatActivity {
 
     private CameraManager mCameraManager;
