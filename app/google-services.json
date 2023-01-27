@@ -14,7 +14,36 @@
       },
       "oauth_client": [
         {
-          "client_id": "650782815004-ane6udgi7op5kon0pso7c329m5cqobdh.apps.googleusercontent.com",
+          "client_id": "650782815004-ui3l68muhrnq2vmiapov4ppsb2r22lts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOgqwWY65VTqRq11Pi3JCINmFLwd-PGLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650782815004-ane6udgi7op5kon0pso7c329m5cqobdh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650782815004:android:9d85cf5a1b3d53355c80d9",
+        "android_client_info": {
+          "package_name": "com.firstapp.flashlightapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650782815004-ui3l68muhrnq2vmiapov4ppsb2r22lts.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
