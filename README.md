@@ -1,6 +1,8 @@
 # FlashlightApp
-Instructions to download and run:
 FlashlightApp 0.1.0 is availible in the Releases section on the right of the repository
+
+
+Instructions to download and run:
 
 1. Click the release and download the zip files associated.
 2. Extract the files from the zip folder
