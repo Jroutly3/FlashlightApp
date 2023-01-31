@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">FlashlightApp</string>
+    <string name="FlashLight_String">Turn On/Off Camera LED/ Flashlight Android</string>
+    <string name="sign_out_button">Sign Out</string>
+    <string name="turn_off_button">Turn Off</string>
+    <string name="turn_on_button">Turn On</string>
 </resources>
