@@ -18,14 +18,14 @@
     <Button
         android:layout_width="110dp"
         android:layout_height="wrap_content"
-        android:text="Sign Out"
+        android:text="@string/sign_out_button"
         android:id="@+id/signOutButton" />
     <ToggleButton
         android:id="@+id/onOffFlashlight"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:textOn="Turn Off"
-        android:textOff="Turn On"
+        android:textOn="@string/turn_off_button"
+        android:textOff="@string/turn_on_button"
         android:checked="false"
-        android:text="Turn On/Off Camera LED/ Flashlight Android" />
+        android:text="@string/FlashLight_String" />
 </LinearLayout>
